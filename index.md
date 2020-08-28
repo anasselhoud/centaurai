@@ -7,6 +7,10 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Centaur AI
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+**Redefining the standards of Technology, Artificial Intelligence and Data Science.**
+We offer services of development, implementation and deployment of solutions based on Artificial Intelligence and Data Analysis in various fields: production, industry, renewable energies and goods.
+
+
+
