@@ -10,6 +10,7 @@ intro_image_hide_on_mobile: true
 # Centaur AI
 
 **Redefining the standards of Technology, Artificial Intelligence and Data Science.**
+
 We offer services of development, implementation and deployment of solutions based on Artificial Intelligence and Data Analysis in various fields: production, industry, renewable energies and goods.
 
 
