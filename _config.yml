@@ -1,7 +1,7 @@
 baseurl: '/centaurai'
 exclude: ['README.md']
 permalink: pretty
-title: 'Centaur AI'
+title: 'Centaur AI Startup'
 
 google_analytics_id: null
 homepage:
