@@ -44,7 +44,8 @@ We also use, depending on the project, many deep learning architectures:
 ---
 
 ## Examples of what we can do:
-
+![Alt text](https://i.imgur.com/edpbDfH.png)
+![Alt text](https://i.imgur.com/w1wBvDd.png)
 ![Alt text](https://i.imgur.com/w1wBvDd.png)
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
