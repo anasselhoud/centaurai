@@ -5,25 +5,31 @@ featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+We develop, implement and deploy **Machine Learning Models** for you
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives 
 
-Financial accounting and financial reporting are often used as synonyms.
+ **CentaurAI** has a strong knowledge in Machine Learning, advanced statistical analysis which allows us to develop and implement models that predict, classify and fit your data to solve your specific problem.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Models We Use
 
-## Relevance
+In **CentaurAI**, we use different ML models such as:
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+> Linear/Logistic Regression
+> Decision Tree & Random Forest
+> SVM & Naive Bayes
+> kNN (K-Nearest Neighbours)
+> K-means
+> PCA & All Dimensionality Reduction Algorithms.
+> Bagging and Gradient Boosting
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+We also use, depending on the project, many deep learning architectures:
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+> CNN – Convolutional Neural Network
+> RNN – Recurrent Neural Network
+> LSTM – Long Short Term Memory
+> GAN – Generative Adversarial Network
 
 ## Faithful Representation
 
