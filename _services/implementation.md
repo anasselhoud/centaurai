@@ -16,10 +16,14 @@ We develop, implement and deploy **Machine Learning Models** for you
 
 In **CentaurAI**, we use different ML models such as:
 
-> Linear/Logistic Regression
-> Decision Tree & Random Forest
-> SVM & Naive Bayes
-> kNN (K-Nearest Neighbours)
+> Linear/Logistic Regression.
+
+> Decision Tree & Random Forest.
+
+> SVM & Naive Bayes.
+
+> kNN (K-Nearest Neighbours).
+
 > K-means
 > PCA & All Dimensionality Reduction Algorithms.
 > Bagging and Gradient Boosting
