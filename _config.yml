@@ -9,7 +9,7 @@ homepage:
 logo:
   mobile: "images/logo-mobile.svg"
   desktop: "images/logoweb.png"
-  desktop_height: "70px"
+  desktop_height: "75px"
 footer:
   copyright_text: '© 2020 - Centaur AI Startup'
 
