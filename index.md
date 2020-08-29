@@ -2,7 +2,7 @@
 layout: home
 title: Centaur AI 
 description: AI, Technology & Data Startup
-intro_image: "images/pixeltrue-plan-1.svg"
+intro_image: "images/pixeltrue-plan-1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
