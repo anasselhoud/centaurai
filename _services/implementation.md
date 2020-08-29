@@ -8,9 +8,10 @@ weight: 1
 We develop, implement and deploy **Machine Learning Models** for you
 
 
-# Objectives 
+# How?
 
  **CentaurAI** has a strong knowledge in Machine Learning, advanced statistical analysis which allows us to develop and implement models that predict, classify and fit your data to solve your specific problem.
+The goal of machine learning is to build systems capable of finding patterns in data, learning from it without human intervention and explicit reprogramming.
 
 ## Models We Use
 
@@ -25,17 +26,26 @@ In **CentaurAI**, we use different ML models such as:
 > kNN (K-Nearest Neighbours).
 
 > K-means
+
 > PCA & All Dimensionality Reduction Algorithms.
+
 > Bagging and Gradient Boosting
 
 We also use, depending on the project, many deep learning architectures:
 
 > CNN – Convolutional Neural Network
+
 > RNN – Recurrent Neural Network
+
 > LSTM – Long Short Term Memory
+
 > GAN – Generative Adversarial Network
 
-## Faithful Representation
+---
+
+## Examples of what we can do:
+
+![Alt text](https://imgur.com/w1wBvDd)
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
@@ -53,39 +63,10 @@ Timeliness: Timeliness implies that financial information must be presented to t
 
 ---
 
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
 
 **Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
 
 > **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
 
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
 
 Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
