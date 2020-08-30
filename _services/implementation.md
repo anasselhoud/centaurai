@@ -28,6 +28,8 @@ In **CentaurAI**, we use different ML models such as:
 
 > Decision Tree & Random Forest.
 
+> Gaussian Processes
+
 > SVM & Naive Bayes.
 
 > kNN (K-Nearest Neighbours).
