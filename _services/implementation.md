@@ -13,6 +13,13 @@ We develop, implement and deploy **Machine Learning Models** for you
  **CentaurAI** has a strong knowledge in Machine Learning, advanced statistical analysis which allows us to develop and implement models that predict, classify and fit your data to solve your specific problem.
 The goal of machine learning is to build systems capable of finding patterns in data, learning from it without human intervention and explicit reprogramming.
 
+## What we can do:
+![Alt text](https://i.imgur.com/edpbDfH.png)
+![Alt text](https://i.imgur.com/w1wBvDd.png)
+![Alt text](https://i.imgur.com/RV0JRN5.png)
+
+---
+
 ## Models We Use
 
 In **CentaurAI**, we use different ML models such as:
@@ -41,12 +48,7 @@ We also use, depending on the project, many deep learning architectures:
 
 > GAN – Generative Adversarial Network
 
----
 
-## Examples of what we can do:
-![Alt text](https://i.imgur.com/edpbDfH.png)
-![Alt text](https://i.imgur.com/w1wBvDd.png)
-![Alt text](https://i.imgur.com/w1wBvDd.png)
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
